@@ -1,0 +1,45 @@
+/*Global*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.container .img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.navigation {
+  padding: 12px 0;
+  margin: 0;
+  background: red;
+}
+
+.navigation a {
+  text-decoration: none;
+}
+
+.navigation-list {
+  margin: 0;
+  padding: 0 0 0 96px;
+  list-style-type: none;
+  text-align: right;
+}
+
+.navigation-list li {
+  display: inline-block;
+  margin: 0 36px 0 0;
+  position: relative;
+  color: #fff;
+}
+
+.name {
+  font-size: 20px;
+  font-family: "Great+Vibes";
+  color: #fbc531;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxTQUFBO0FBRUE7OztFQUdJLHNCQUFBO0FDQUo7O0FESUk7RUFDSSxXQUFBO0VBQ0EsWUFBQTtFQUNBLG9CQUFBO0tBQUEsaUJBQUE7QUNEUjs7QURLQTtFQUNJLGVBQUE7RUFDQSxTQUFBO0VBQ0EsZUFBQTtBQ0ZKOztBRE1JO0VBQ0kscUJBQUE7QUNIUjs7QURPQTtFQUNJLFNBQUE7RUFDQSxtQkFBQTtFQUNBLHFCQUFBO0VBQ0EsaUJBQUE7QUNKSjs7QURRSTtFQUNJLHFCQUFBO0VBQ0Esa0JBQUE7RUFDQSxrQkFBQTtFQUNBLFdBQUE7QUNMUjs7QURVQTtFQUNJLGVBQUE7RUFDQSwwQkFBQTtFQUNBLGNBQUE7QUNQSiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
